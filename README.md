@@ -1,4 +1,4 @@
-# Lo-poco-que-se-de-React
+# Lo poco que se de React
 Links utiles para aprender React
 * https://www.robinwieruch.de/javascript-fundamentals-react-requirements#entering-react-after-learning-javascript* 
 * https://reactfordesigners.com/
